@@ -1,0 +1,6 @@
+usuário: usuario1;
+senha: 12345;
+
+Tela de inicio: TelaInicial.java;
+
+As configurações do BD estão no pacote Util;
